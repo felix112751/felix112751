@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Felix Goyeh
 - 
 
-- 🌱 I’m currently learning Software Engineering
+- 🌱 I am a Software Developer
 - 
 - 💞️ I’m looking to collaborate on ...
 - 
